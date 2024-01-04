@@ -1,7 +1,6 @@
 # EX-05-JavaScript
-NAME: SAI VISHAL D<br>
-REF.NO: 23013576
-
+NAME: SAI VISHAL D<BR>
+REG.NO: 212223230180
 ## AIM:
 To create a form with java script code to calculate electricity bill.
 
