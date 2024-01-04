@@ -1,4 +1,4 @@
-# ODD23-24-WT-JavaScript
+# EX-05-JavaScript
 NAME: SAI VISHAL D<br>
 REF.NO: 23013576
 
